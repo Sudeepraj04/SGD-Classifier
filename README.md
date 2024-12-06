@@ -56,7 +56,7 @@ print(f"Accuracy:{accuracy:.3f}")
 cf=confusion_matrix(y_test, y_pred)
 print("Confusion Matrix")
 print(cf)
-
+```
 ## Output:
 ![prediction of iris species using SGD Classifier](sam.png)
 ![ml exp 7 output](https://github.com/user-attachments/assets/20808ac0-90fe-4f55-876c-1efeb0bb506d)
